@@ -1,0 +1,12 @@
+{
+  "name": "kimeloo",
+  "owner": { "name": "kimeloo" },
+  "description": "Personal Claude Code plugin marketplace",
+  "plugins": [
+    {
+      "name": "visual-decisions",
+      "source": { "source": "github", "repo": "kimeloo/visual-decisions-plugin" },
+      "description": "Ask many decisions at once on local HTML pages with side-by-side mockups; answers are saved by a tiny Node server."
+    }
+  ]
+}
